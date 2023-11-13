@@ -2,7 +2,7 @@
     김주연  
 
 # 사진  
-![Alt text](https://img1.daumcdn.net/thumb/R300x0/?fname=https://blog.kakaocdn.net/dn/le925/btrrn11a3Pb/rPqGJ5RqdwfG9Z5swUgT60/img.png)
+![Alt text](https://blog.kakaocdn.net/dn/byIKqO/btrrsmPP0yY/ZkOfiytCc3ET8MmEtDQ6X1/img.png)
 
 # MBTI
     ENTP  
